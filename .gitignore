@@ -2,8 +2,7 @@
 /build
 /test
 
-# IDE
-/nbproject
+
 
 # misc
 build.xml
