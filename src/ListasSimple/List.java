@@ -1,5 +1,5 @@
 /**
- * @author José Roberto Quevedo Gabizón 
+ * @author Carlos Fontes
  */
 package ListasSimple;
 
