@@ -1,3 +1,6 @@
+/**
+ * @author Carlos Fontes
+ */
 package Aplicacion;
 
 public class Test {

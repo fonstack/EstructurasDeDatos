@@ -1,3 +1,6 @@
+/**
+ * @author Carlos Fontes
+ */
 package arbolesBB;
 
 public class NodoABB {

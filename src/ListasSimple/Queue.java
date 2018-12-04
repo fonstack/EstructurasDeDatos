@@ -1,3 +1,6 @@
+/**
+ * @author Carlos Fontes
+ */
 package ListasSimple;
 
 public class Queue <T> {

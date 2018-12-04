@@ -1,3 +1,6 @@
+/**
+ * @author Carlos Fontes
+ */
 package ListasDobles;
 
 public class CircularDoubleList<T> {
